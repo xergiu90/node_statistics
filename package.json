@@ -11,7 +11,7 @@
     "dependencies": {
         "@google-cloud/bigquery": "^4.1.5",
         "ejs": "^2.6.2",
-        "express": "^4.17.1",
+        "express": "^4.18.2",
         "fs": "0.0.1-security",
         "node-cron": "^2.0.3"
     }
